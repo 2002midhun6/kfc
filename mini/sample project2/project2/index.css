@@ -1,0 +1,261 @@
+body{
+    margin: 0;
+}
+header{
+    height: 76px;
+ background-color:#fcfcfc;
+    width: 100%;
+  
+    
+    display: flex;
+    
+   
+}
+.logo{
+    padding-top: 1px;
+    height: 69px;
+    width: 122px;
+    margin-left: 19px;
+    
+
+}
+.head1{
+    
+    display:flex;
+    justify-content: space-evenly;
+   
+    column-gap: 10px;
+     width: 50%;
+    
+    
+
+}
+.head1 a{
+    padding-top: 30px;
+    text-decoration: none;
+    color: black;
+    display: block;
+    height: 42px;
+    background-color:#fcfcfc;
+  
+   
+
+ 
+
+}
+.head1 a:hover{
+    color: #017ea4;
+    border-bottom: solid 4px #017ea4;
+    
+}
+.location-changing{
+    margin-top: 2px;
+    margin-left: 500px;
+    height: 70px;
+    width: 30px;
+    background-image: url(LOGO-NEW.png);
+ 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  
+}
+.location-changing:hover{
+    
+    border-bottom: solid 4px #017ea4;
+    
+    
+}
+
+.minimain{
+    background-image: url(mini2.webp);
+    height: 700px;
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-size: xx-large;
+    color: #fcfcfc;
+   padding-top: 60px;
+   padding-left: 120px;
+
+}
+section h1{
+    font-family: "Merriweather", serif;
+    font-size:  60px;
+   
+}
+section h3{
+   margin-top: -40px;
+    font-family: "Merriweather", serif;
+    font-size: 25px;
+
+}
+section button{
+    height: 60px;
+    width: 200px;
+    border-radius: 200px;
+    background-color:#fff;
+   border: 0px;
+   font-size: 15px;
+   margin-left: 25px;
+   
+}
+section button:hover{
+    background-color:rgb(220, 217, 217);
+   
+}
+.CARS{
+    display: flex;
+    width: 100%;
+    height: 350px;
+    background-color:#fff;
+    margin-top: 100px;
+}
+.MINI{
+    width: 500px;
+}
+.PARA{
+    text-align: center;
+}
+.electric{
+    height: 250px;
+    width: 100%;
+   background-color: rgb(241, 241, 241);
+   display: flex;
+   justify-content: center;
+}
+.electric img{
+    height:66px;
+    width: 300px;
+    margin-top: 100px;
+    
+   
+  }
+.border{
+    width: 95%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+ 
+    background-color:#fcfcfc;
+    height: 1px;
+}
+.big{
+    background-color:rgb(241, 241, 241);;
+}
+
+
+.link-img{
+
+ 
+   margin-top: -150px;
+   
+   justify-content:space-between;
+   width: 100%;
+   display: flex;
+   
+}
+.link-img2{
+    height: 800px;
+    background-color: rgb(241, 241, 241); ;
+   
+}
+.img1{
+    margin-top: 225px;
+    background-color: #fff;
+   width: 28%;
+   height: 400px;
+   margin-left: 90px;
+   
+   
+  
+}
+.link-img2 P{
+    padding-left: 30px;
+    padding-top: 100px;
+    color:black;
+}
+.img2{
+    width: 100%;
+    height: 250px;
+    margin-top: -40px;
+    margin-left:-20px;
+}
+
+
+.line{
+    width:20%;
+    background-color: black;
+    height:1px;
+    border-color: black;
+    margin-left: 20px;
+}
+.h3{
+    font-weight: 100;
+    padding-left: 20px;
+}
+.page{
+    color: black;
+    text-align: center;
+}
+.link-img3{
+    height: 1000px;
+    width: 100%;
+    background-color:  rgb(241, 241, 241);
+}
+.page span{
+    color:grey;
+}
+.news{
+    background-color: black;
+    color: #fff;
+    margin-left: 43.5%;
+}
+.news:hover{
+    background-color: gray;
+  
+}
+footer{
+    height: 400px;
+    width: 100%;
+    background-color: #fff;
+    padding-top:100px ;
+}
+.foot{
+    height: 1px;
+    width: 70%;
+   margin-left: 15%;
+   background-color: rgb(190, 190, 190);
+ 
+
+}
+.footer-link{
+ 
+    padding-top:100px ;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 30px;
+   
+}
+.footer-link a{
+    color:black;
+
+}
+.last-logo img{
+    width: 150px;
+    
+}
+.last-logo{
+    padding-left: 45%;
+    padding-top: 60px;
+}
+ .para-mini{
+    display: flex;
+    justify-content: center;
+
+ }
+ .para-mini div p{
+    font-size: 13px;
+ }
